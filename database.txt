@@ -1,0 +1,168 @@
+WiFi: 2022-01-26 20:27:10
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-70)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-70)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-70)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-70)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x83\xa2', sec=0, channel=1, rssi=-73)
+(ssid='INRIA', bssid=b'<Q\x0e^\x83\xa3', sec=0, channel=1, rssi=-74)
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-74)
+(ssid='INRIA-interne', bssid=b'<Q\x0e^\x83\xa4', sec=5, channel=1, rssi=-74)
+(ssid='eduroam', bssid=b'<Q\x0e^\x84 ', sec=5, channel=1, rssi=-86)
+(ssid='eduroam', bssid=b'<Q\x0eX\xdf`', sec=5, channel=11, rssi=-95)
+(ssid='INRIA-guest', bssid=b'<Q\x0eX\xdfb', sec=0, channel=11, rssi=-96)
+Bluetooth: 2022-01-26 20:27:10
+{'name': None, 'rssi': -71, 'adv_tx_pwr': 3, 'tx_range': None, 'def_tx_pwr': 3, 'mac': b'6599216c184c', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:11
+{'Acceleration': '(0.0, 0.0, 0.0)', 'Roll': '1.401895', 'battery_voltage': 4.671649, 'battery_percentage': 100.4982, 'Pitch': '-0.05524158'}
+WiFi: 2022-01-26 20:27:13
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-69)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-69)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-69)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-70)
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-71)
+(ssid='INRIA', bssid=b'<Q\x0e^\x83\xa3', sec=0, channel=1, rssi=-71)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x83\xa2', sec=0, channel=1, rssi=-72)
+(ssid='INRIA-interne', bssid=b'<Q\x0e^\x83\xa4', sec=5, channel=1, rssi=-75)
+(ssid='eduroam', bssid=b'<Q\x0e^\x84 ', sec=5, channel=1, rssi=-84)
+(ssid='INRIA', bssid=b'<Q\x0e^\x84#', sec=0, channel=1, rssi=-84)
+(ssid='lille.iot-lab', bssid=b'\x1c\xde\xa7\xe8V\xf0', sec=3, channel=4, rssi=-89)
+(ssid='INRIA-interne', bssid=b'<Q\x0eX\xdfd', sec=5, channel=11, rssi=-96)
+Bluetooth: 2022-01-26 20:27:13
+{'name': None, 'rssi': -79, 'adv_tx_pwr': 3, 'tx_range': None, 'def_tx_pwr': 3, 'mac': b'ca993b11455c', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:14
+{'Acceleration': '(-0.01782227, 0.006591797, 1.007568)', 'Roll': '1.013365', 'battery_voltage': 4.711792, 'battery_percentage': 104.5125, 'Pitch': '-0.3747812'}
+WiFi: 2022-01-26 20:27:10
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-65)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-66)
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-69)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-70)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x83\xa2', sec=0, channel=1, rssi=-75)
+(ssid='INRIA', bssid=b'<Q\x0e^\x83\xa3', sec=0, channel=1, rssi=-76)
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-77)
+(ssid='lille.iot-lab', bssid=b'\x1c\xde\xa7\xe8V\xf0', sec=3, channel=4, rssi=-91)
+(ssid='eduroam', bssid=b'<Q\x0eX\xdf`', sec=5, channel=11, rssi=-94)
+(ssid='INRIA-guest', bssid=b'<Q\x0eX\xdfb', sec=0, channel=11, rssi=-94)
+Bluetooth: 2022-01-26 20:27:10
+{'name': None, 'rssi': -55, 'adv_tx_pwr': 3, 'tx_range': None, 'def_tx_pwr': 3, 'mac': b'674e52e2a5e4', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:11
+{'Acceleration': '(-0.02026367, 0.004272461, 1.01416)', 'Roll': '1.14466', 'battery_voltage': 4.721828, 'battery_percentage': 105.5161, 'Pitch': '-0.03456307'}
+WiFi: 2022-01-26 20:27:13
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-73)
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-74)
+(ssid='INRIA', bssid=b'<Q\x0e^\x83\xa3', sec=0, channel=1, rssi=-74)
+(ssid='INRIA-interne', bssid=b'<Q\x0e^\x83\xa4', sec=5, channel=1, rssi=-74)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x83\xa2', sec=0, channel=1, rssi=-74)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-74)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-74)
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-75)
+Bluetooth: 2022-01-26 20:27:13
+{'name': None, 'rssi': -66, 'adv_tx_pwr': 3, 'tx_range': None, 'def_tx_pwr': 3, 'mac': b'6599216c184c', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:14
+{'Acceleration': '(-0.02185059, 0.002685547, 1.009888)', 'Roll': '1.239495', 'battery_voltage': 4.71681, 'battery_percentage': 105.0143, 'Pitch': '-0.02071813'}
+WiFi: 2022-01-26 20:27:09
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-76)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x83\xa2', sec=0, channel=1, rssi=-76)
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-78)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-79)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-80)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-80)
+(ssid='eduroam', bssid=b'<Q\x0e^\x84 ', sec=5, channel=1, rssi=-87)
+Bluetooth: 2022-01-26 20:27:09
+{'name': None, 'rssi': -72, 'adv_tx_pwr': 3, 'tx_range': None, 'def_tx_pwr': 3, 'mac': b'6637bd9a45c9', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:09
+{'Acceleration': '(-0.01660156, 0.0003662109, 1.007935)', 'Roll': '0.9436261', 'battery_voltage': 4.71681, 'battery_percentage': 105.0143, 'Pitch': '-0.02081434'}
+WiFi: 2022-01-26 20:27:11
+(ssid='iPhone', bssid=b'~\xe6Hn@\xa3', sec=3, channel=6, rssi=-37)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-69)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-69)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-69)
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-70)
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-76)
+(ssid='eduroam', bssid=b'<Q\x0e^\x84 ', sec=5, channel=1, rssi=-79)
+(ssid='lille.iot-lab', bssid=b'\x1c\xde\xa7\xe8V\xf0', sec=3, channel=4, rssi=-87)
+Bluetooth: 2022-01-26 20:27:11
+{'name': None, 'rssi': -63, 'adv_tx_pwr': 3, 'tx_range': None, 'def_tx_pwr': 3, 'mac': b'6637bd9a45c9', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:12
+{'Acceleration': '(-0.01428223, 0.002685547, 1.009033)', 'Roll': '0.8109313', 'battery_voltage': 4.726846, 'battery_percentage': 106.0179, 'Pitch': '-0.151798'}
+WiFi: 2022-01-26 20:27:11
+(ssid='iPhone', bssid=b'~\xe6Hn@\xa3', sec=3, channel=6, rssi=-47)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-65)
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-66)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-66)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-66)
+(ssid='INRIA', bssid=b'<Q\x0e^\x83\xa3', sec=0, channel=1, rssi=-74)
+(ssid='lille.iot-lab', bssid=b'\x1c\xde\xa7\xe8V\xf0', sec=3, channel=4, rssi=-88)
+(ssid='INRIA-guest', bssid=b'<Q\x0eX\xdfb', sec=0, channel=11, rssi=-93)
+Bluetooth: 2022-01-26 20:27:11
+{'name': None, 'rssi': -92, 'adv_tx_pwr': 3, 'tx_range': None, 'def_tx_pwr': 3, 'mac': b'0c612cee0d17', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:11
+{'Acceleration': '(-0.01257324, 0.003051758, 1.007935)', 'Roll': '0.7146855', 'battery_voltage': 4.711792, 'battery_percentage': 104.5125, 'Pitch': '-0.1734623'}
+WiFi: 2022-01-26 20:27:11
+(ssid='iPhone', bssid=b'\xee\xab\xd3\\!\xc9', sec=3, channel=6, rssi=-43)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x83\xa2', sec=0, channel=1, rssi=-73)
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-74)
+(ssid='INRIA-interne', bssid=b'<Q\x0e^\x83\xa4', sec=5, channel=1, rssi=-74)
+(ssid='INRIA', bssid=b'<Q\x0e^\x83\xa3', sec=0, channel=1, rssi=-75)
+(ssid='lille.iot-lab', bssid=b'\x1c\xde\xa7\xe8V\xf0', sec=3, channel=4, rssi=-87)
+(ssid='INRIA-interne', bssid=b'<Q\x0eX\xdfd', sec=5, channel=11, rssi=-94)
+Bluetooth: 2022-01-26 20:27:11
+{'name': None, 'rssi': -86, 'adv_tx_pwr': 3, 'tx_range': None, 'def_tx_pwr': 3, 'mac': b'42163bebd71c', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:11
+{'Acceleration': '(-0.01940918, -0.002929688, 1.013672)', 'Roll': '1.096931', 'battery_voltage': 4.721828, 'battery_percentage': 105.5161, 'Pitch': '-0.02075551'}
+WiFi: 2022-01-26 20:27:10
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-69)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x83\xa2', sec=0, channel=1, rssi=-70)
+(ssid='INRIA', bssid=b'<Q\x0e^\x83\xa3', sec=0, channel=1, rssi=-70)
+(ssid='INRIA-interne', bssid=b'<Q\x0e^\x83\xa4', sec=5, channel=1, rssi=-70)
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-73)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-73)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-73)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-73)
+(ssid='INRIA', bssid=b'<Q\x0e^\x84#', sec=0, channel=1, rssi=-82)
+(ssid='INRIA-interne', bssid=b'<Q\x0e^\x84$', sec=5, channel=1, rssi=-82)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x84"', sec=0, channel=1, rssi=-83)
+(ssid='eduroam', bssid=b'<Q\x0eX\xdf`', sec=5, channel=11, rssi=-91)
+(ssid='INRIA-guest', bssid=b'<Q\x0eX\xdfb', sec=0, channel=11, rssi=-93)
+(ssid='INRIA', bssid=b'<Q\x0eX\xdfc', sec=0, channel=11, rssi=-93)
+Bluetooth: 2022-01-26 20:27:10
+{'name': None, 'rssi': -71, 'adv_tx_pwr': 3, 'tx_range': 12, 'def_tx_pwr': 3, 'mac': b'4be735d526f5', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:10
+{'Acceleration': '(-0.01623535, -0.0007324219, 1.015137)', 'Roll': '0.9162684', 'battery_voltage': 4.71681, 'battery_percentage': 105.0143, 'Pitch': '-0.01377623'}
+WiFi: 2022-01-26 20:27:11
+(ssid='iPhone', bssid=b'\xc2c\x1c\x04@(', sec=3, channel=6, rssi=-42)
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-72)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-77)
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-78)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-79)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-79)
+Bluetooth: 2022-01-26 20:27:11
+{'name': None, 'rssi': -62, 'adv_tx_pwr': 3, 'tx_range': None, 'def_tx_pwr': 3, 'mac': b'7bad00e2e7a0', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:12
+{'Acceleration': '(-0.01501465, 0.002685547, 1.011108)', 'Roll': '1.251827', 'battery_voltage': 4.721828, 'battery_percentage': 105.5161, 'Pitch': '-0.08990302'}
+WiFi: 2022-01-26 20:27:11
+(ssid='iPhone', bssid=b'.SpeGY', sec=3, channel=6, rssi=-41)
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-74)
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-74)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-74)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-74)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-74)
+(ssid='eduroam', bssid=b'<Q\x0e^\x84 ', sec=5, channel=1, rssi=-85)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x84"', sec=0, channel=1, rssi=-85)
+Bluetooth: 2022-01-26 20:27:11
+{'name': None, 'rssi': -85, 'adv_tx_pwr': 3, 'tx_range': 12, 'def_tx_pwr': 3, 'mac': b'5f7da3e4525d', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:11
+{'Acceleration': '(-0.01611328, 0.001464844, 1.010376)', 'Roll': '0.9088341', 'battery_voltage': 4.721828, 'battery_percentage': 105.5161, 'Pitch': '-0.05508056'}
+WiFi: 2022-01-26 20:27:11
+(ssid='iPhone', bssid=b'.SpeGY', sec=3, channel=6, rssi=-47)
+(ssid='INRIA-guest', bssid=b'<Q\x0e^\x83\xa2', sec=0, channel=1, rssi=-65)
+(ssid='eduroam', bssid=b'<Q\x0e^\x83\xa0', sec=5, channel=1, rssi=-66)
+(ssid='INRIA-guest', bssid=b'l1\x0e\xbaT"', sec=0, channel=11, rssi=-74)
+(ssid='INRIA-interne', bssid=b'l1\x0e\xbaT$', sec=5, channel=11, rssi=-75)
+(ssid='eduroam', bssid=b'l1\x0e\xbaT ', sec=5, channel=11, rssi=-76)
+(ssid='INRIA', bssid=b'l1\x0e\xbaT#', sec=0, channel=11, rssi=-76)
+(ssid='lille.iot-lab', bssid=b'\x1c\xde\xa7\xe8V\xf0', sec=3, channel=4, rssi=-82)
+(ssid='eduroam', bssid=b'<Q\x0e^\x84 ', sec=5, channel=1, rssi=-86)
+Bluetooth: 2022-01-26 20:27:11
+{'name': None, 'rssi': -68, 'adv_tx_pwr': 3, 'tx_range': 8, 'def_tx_pwr': 3, 'mac': b'6092c9c514fb', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64}
+Acceleration: 2022-01-26 20:27:11
+{'Acceleration': '(0.0, 0.0, 0.0)', 'Roll': '1.019464', 'battery_voltage': 4.671649, 'battery_percentage': 100.4982, 'Pitch': '0.06887901'}
