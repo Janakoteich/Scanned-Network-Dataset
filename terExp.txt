@@ -1,0 +1,157 @@
+Reading file...........................
+Start Scanning Train---------------------------------------------------------------------
+WiFi: 2022-01-26 20:27:13
+(ssid='iPhone', bssid=b'6(;\x0c\x93\xf4', sec=3, channel=6, rssi=-45)
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-55)
+Bluetooth: 2022-01-26 20:27:13
+{'adv_flag': None, 'def_tx_pwr': 3, 'mac': b'e420c11db32c', 'rssi': -52, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr':64, 'tx_range': None, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:13
+{'Acceleration': '(0.0, 0.0, -1.001709)', 'Roll': '174.8056', 'battery_voltage': 4.756954, 'battery_percentage': 109.0286, 'Pitch': '-3.167568'}
+LoRa: 2022-01-26 20:27:13
+{'spreading_factor': 7, 'data': b'', 'frequency': 868000000, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:16
+(ssid='iPhone', bssid=b'6(;\x0c\x93\xf4', sec=3, channel=6, rssi=-45)
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-56)
+Bluetooth: 2022-01-26 20:27:16
+{'adv_flag': 26, 'def_tx_pwr': 3, 'mac': b'4eb142026253', 'rssi': -87, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr': 64, 'tx_range': 8, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:17
+{'Acceleration': '(-0.09643555, 0.06262207, -0.9810791)', 'Roll': '174.3861', 'battery_voltage': 4.751936, 'battery_percentage': 108.5269, 'Pitch': '-3.634753'}
+LoRa: 2022-01-26 20:27:17
+{'spreading_factor': 7, 'data': b'', 'frequency': 864862500, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:19
+(ssid='iPhone', bssid=b'6(;\x0c\x93\xf4', sec=3, channel=6, rssi=-44)
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-55)
+(ssid='iPhone de Mathilde', bssid=b'&\x0b\xcf\xb1\xc2\xc8', sec=3, channel=6, rssi=-88)
+Bluetooth: 2022-01-26 20:27:20
+{'adv_flag': None, 'def_tx_pwr': 3, 'mac': b'48c49b6f9a34', 'rssi': -62, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr':64, 'tx_range': None, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:20
+{'Acceleration': '(-0.1053467, 0.04992676, -0.869751)', 'Roll': '173.0938', 'battery_voltage': 4.761971, 'battery_percentage': 109.5304, 'Pitch': '-3.043058'}
+LoRa: 2022-01-26 20:27:20
+{'spreading_factor': 7, 'data': b'', 'frequency': 865062500, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+Start Scanning NOWWWWW TRain---------------------------------------------------------------------
+WiFi: 2022-01-26 20:27:10
+(ssid='iPhone', bssid=b'6(;\x0c\x93\xf4', sec=3, channel=6, rssi=-39)
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-55)
+Bluetooth: 2022-01-26 20:27:10
+{'adv_flag': None, 'def_tx_pwr': 3, 'mac': b'e54ba838a3cb', 'rssi': -78, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr':64, 'tx_range': None, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:10
+{'Acceleration': '(-0.0982666, 0.02001953, -0.9729004)', 'Roll': '174.2325', 'battery_voltage': 4.721828, 'battery_percentage': 105.5161, 'Pitch': '-2.121528'}
+LoRa: 2022-01-26 20:27:11
+{'spreading_factor': 7, 'data': b'', 'frequency': 868000000, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:13
+(ssid='iPhone', bssid=b'6(;\x0c\x93\xf4', sec=3, channel=6, rssi=-49)
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-63)
+Bluetooth: 2022-01-26 20:27:13
+{'adv_flag': 26, 'def_tx_pwr': 3, 'mac': b'5259dd0a6246', 'rssi': -85, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr': 64, 'tx_range': 5, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:14
+{'Acceleration': '(-0.09960938, 0.04260254, -0.9710693)', 'Roll': '174.0239', 'battery_voltage': 4.721828, 'battery_percentage': 105.5161, 'Pitch': '-1.259298'}
+LoRa: 2022-01-26 20:27:14
+{'spreading_factor': 7, 'data': b'', 'frequency': 864862500, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:16
+(ssid='iPhone', bssid=b'6(;\x0c\x93\xf4', sec=3, channel=6, rssi=-45)
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-64)
+Bluetooth: 2022-01-26 20:27:16
+{'adv_flag': 26, 'def_tx_pwr': 3, 'mac': b'78b9d04c8f8c', 'rssi': -78, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr': 64, 'tx_range': 8, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:17
+{'Acceleration': '(-0.1606445, 0.006591797, -0.9133301)', 'Roll': '170.0243', 'battery_voltage': 4.731864, 'battery_percentage': 106.5197, 'Pitch': '-1.430813'}
+LoRa: 2022-01-26 20:27:17
+{'spreading_factor': 7, 'data': b'', 'frequency': 865062500, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:19
+(ssid='iPhone', bssid=b'6(;\x0c\x93\xf4', sec=3, channel=6, rssi=-42)
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-62)
+Bluetooth: 2022-01-26 20:27:20
+{'adv_flag': None, 'def_tx_pwr': 3, 'mac': b'3cd8d1b7516f', 'rssi': -79, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr':64, 'tx_range': None, 'adv_tx_pwr': 3}
+Start Scanning NOWWWWW TRain---------------------------------------------------------------------
+WiFi: 2022-01-26 20:27:10
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-58)
+Bluetooth: 2022-01-26 20:27:10
+{'adv_flag': 26, 'def_tx_pwr': 3, 'mac': b'68da2bfa7087', 'rssi': -89, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr': 64, 'tx_range': 12, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:10
+{'Acceleration': '(0.0, 0.0, -0.7608643)', 'Roll': '-168.501', 'battery_voltage': 4.611434, 'battery_percentage': 94.47663, 'Pitch': '-0.5854881'}
+LoRa: 2022-01-26 20:27:11
+{'spreading_factor': 7, 'data': b'', 'frequency': 868000000, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:13
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-60)
+Bluetooth: 2022-01-26 20:27:13
+{'adv_flag': None, 'def_tx_pwr': 3, 'mac': b'f608275b9740', 'rssi': -90, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr':64, 'tx_range': None, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:14
+{'Acceleration': '(0.2026367, 0.005493164, -0.9854736)', 'Roll': '-168.6532', 'battery_voltage': 4.611434, 'battery_percentage': 94.47663, 'Pitch': '-0.313129'}
+LoRa: 2022-01-26 20:27:14
+{'spreading_factor': 7, 'data': b'', 'frequency': 864862500, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:16
+Bluetooth: 2022-01-26 20:27:16
+{'adv_flag': 26, 'def_tx_pwr': 3, 'mac': b'7a312131e9d4', 'rssi': -80, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr': 64, 'tx_range': 8, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:17
+{'Acceleration': '(0.1878662, 0.01989746, -0.9749756)', 'Roll': '-168.3002', 'battery_voltage': 4.606416, 'battery_percentage': 93.97491, 'Pitch': '-1.432717'}
+LoRa: 2022-01-26 20:27:17
+{'spreading_factor': 7, 'data': b'', 'frequency': 865062500, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:19
+Bluetooth: 2022-01-26 20:27:20
+{'adv_flag': 5, 'def_tx_pwr': 3, 'mac': b'ef634c1cb3a0', 'rssi': -73, 'name': 'Move 62', 'scan_tx_pwr': 3, 'conn_tx_pwr': 64, 'tx_range': 0, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:20
+{'Acceleration': '(0.1716309, 0.0144043, -0.9761963)', 'Roll': '-170.0284', 'battery_voltage': 4.611434, 'battery_percentage': 94.47663, 'Pitch': '-0.8325998'}
+LoRa: 2022-01-26 20:27:20
+{'spreading_factor': 7, 'data': b'', 'frequency': 865402500, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:22
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-62)
+(ssid='iPhone de Mathilde', bssid=b'&\x0b\xcf\xb1\xc2\xc8', sec=3, channel=6, rssi=-93)
+Bluetooth: 2022-01-26 20:27:23
+{'adv_flag': None, 'def_tx_pwr': 3, 'mac': b'1945610be74d', 'rssi': -88, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr':64, 'tx_range': None, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:23
+{'Acceleration': '(0.1750488, 0.01672363, -0.9205322)', 'Roll': '-169.2331', 'battery_voltage': 4.606416, 'battery_percentage': 93.97491, 'Pitch': '-1.022479'}
+LoRa: 2022-01-26 20:27:23
+{'spreading_factor': 7, 'data': b'', 'frequency': 865602500, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:26
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-63)
+(ssid='AndroidAP', bssid=b'\x00\x16\x7f(~\xd4', sec=3, channel=6, rssi=-93)
+Bluetooth: 2022-01-26 20:27:26
+{'adv_flag': 26, 'def_tx_pwr': 3, 'mac': b'406aaea13fbf', 'rssi': -80, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr': 64, 'tx_range': 12, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:26
+{'Acceleration': '(0.171875, 0.05834961, -0.9448242)', 'Roll': '-169.6899', 'battery_voltage': 4.606416, 'battery_percentage': 93.97491, 'Pitch': '-3.477014'}
+LoRa: 2022-01-26 20:27:26
+{'spreading_factor': 7, 'data': b'', 'frequency': 865985000, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:29
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-68)
+Bluetooth: 2022-01-26 20:27:29
+{'adv_flag': None, 'def_tx_pwr': 3, 'mac': b'76f9fcfdeba0', 'rssi': -58, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr':64, 'tx_range': None, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:29
+{'Acceleration': '(0.1641846, -0.006958008, -0.9661865)', 'Roll': '-170.4387', 'battery_voltage': 4.606416, 'battery_percentage': 93.97491, 'Pitch': '0.4408497'}
+LoRa: 2022-01-26 20:27:29
+{'spreading_factor': 7, 'data': b'', 'frequency': 866200000, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:32
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-66)
+(ssid='AndroidAP', bssid=b'\x00\x16\x7f(~\xd4', sec=3, channel=6, rssi=-92)
+Bluetooth: 2022-01-26 20:27:32
+{'adv_flag': None, 'def_tx_pwr': 3, 'mac': b'1945610be74d', 'rssi': -86, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr':64, 'tx_range': None, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:33
+{'Acceleration': '(0.1257324, 0.0135498, -0.9309082)', 'Roll': '-170.8035', 'battery_voltage': 4.616452, 'battery_percentage': 94.9785, 'Pitch': '-2.233795'}
+LoRa: 2022-01-26 20:27:33
+{'spreading_factor': 7, 'data': b'', 'frequency': 866400000, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:35
+Bluetooth: 2022-01-26 20:27:35
+{'adv_flag': 26, 'def_tx_pwr': 3, 'mac': b'78dc2c7442d6', 'rssi': -86, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr': 64, 'tx_range': 12, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:36
+{'Acceleration': '(0.1887207, -0.06616211, -0.9903564)', 'Roll': '-168.5007', 'battery_voltage': 4.616452, 'battery_percentage': 94.9785, 'Pitch': '3.04967'}
+LoRa: 2022-01-26 20:27:36
+{'spreading_factor': 7, 'data': b'', 'frequency': 866600000, 'bandwidth': 0}
+(rx_timestamp=0, rssi=0, snr=0.0, sfrx=0, sftx=0, tx_trials=0, tx_power=14, tx_time_on_air=0, tx_counter=0, tx_frequency=0)
+WiFi: 2022-01-26 20:27:38
+(ssid='marine :) ', bssid=b'\x102~:\xb3Y', sec=3, channel=1, rssi=-68)
+Bluetooth: 2022-01-26 20:27:38
+{'adv_flag': 26, 'def_tx_pwr': 3, 'mac': b'4078931195fc', 'rssi': -79, 'name': None, 'scan_tx_pwr': 3, 'conn_tx_pwr': 64, 'tx_range': 8, 'adv_tx_pwr': 3}
+Others: 2022-01-26 20:27:39
+{'Acceleration': '(0.2624512, 0.02722168, -0.9735107)', 'Roll': '-164.9122', 'battery_voltage': 4.611434, 'battery_percentage': 94.47663, 'Pitch': '-1.776745'}
