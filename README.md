@@ -1,6 +1,6 @@
 # Scanned-Network-Dataset
 the 
-In this repository you can find the collected datasets from scanning where we used FiPy microcontroller from Pycom to achievce this.
+In this repository you can find the collected datasets from scanning by using FiPy microcontroller from Pycom.
 In each text file there is the output of the collected data that is organized as follows:
 
 
