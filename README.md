@@ -1,5 +1,5 @@
 # Scanned-Network-Dataset
-the 
+
 In this repository you can find the collected datasets from scanning by using FiPy microcontroller from Pycom.
 In each text file there is the output of the collected data.
 For each wireless technology the following features are collected:
@@ -19,6 +19,7 @@ For each wireless technology the following features are collected:
 
 Data-set Catalog:
 The data-set is composed of two main scenarios: *Static* and *Mobile*.
+
 **Static:**
 - Office
 - Home1: Collective
